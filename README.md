@@ -13,5 +13,5 @@ The document number is in the format: xxxx-xxxxxx-xxxx, where x is any digit;
 Phone number in the format: +(xx)xxxxxxxxxx.  
 The document may not contain all the information, for example, it may not contain the phone number, or other.  
 The program finds this information and outputs it to the console in the format:  
-email: teachmeskills@gmail.com  
+email:teachmeskills@gmail.com  
 document number: 1423-1512-51
